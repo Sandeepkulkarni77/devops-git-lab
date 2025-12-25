@@ -1,5 +1,7 @@
 filters:
-  - name: status
+  - name: status a
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
+
+   mode: feature-a
