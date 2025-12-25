@@ -1,7 +1,15 @@
 filters:
+<<<<<<< HEAD
   - name: status a
+=======
+  - name: status b
+>>>>>>> feature-b
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
 
+<<<<<<< HEAD
    mode: feature-a
+=======
+    mode: feature-a
+>>>>>>> feature-b
