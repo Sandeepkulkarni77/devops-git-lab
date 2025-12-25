@@ -1,12 +1,27 @@
 filters:
+        HEAD
   - name: status_a
     values: [active, inactive]
   - name: status_b
+        HEAD
+  - name: status a
+
+  - name: status b
+        feature-b
+        c2ed93d29f52fdbadaf40f78f8390ab49c34b9a6
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
 
+         HEAD
 modes:
   - feature-a
   - feature-b
 
+
+         HEAD
+   mode: feature-a
+
+    mode: feature-a
+        feature-a
+        c2ed93d29f52fdbadaf40f78f8390ab49c34b9a6
